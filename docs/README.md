@@ -89,7 +89,7 @@ rest_cherrypy:
 
 **Note: With this configuration, the user has access to all salt modules available, maybe this is not what you want**
 
-Please read [Permissions](docs/PERMISSIONS.md) for more information.
+Please read [Permissions](PERMISSIONS.md) for more information.
 
 
 ## Authentication
